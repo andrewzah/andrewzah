@@ -1,6 +1,7 @@
 # Andrew Zah
 
-Hi, I'm Andrew! I work as a software engineer for Open Source Systems. I maintain some open source libraries related to Korean & Hangeul.
+Hi, I'm Andrew! I work as a software engineer for [Open Source Systems](https://github.com/ossys/).  
+I maintain some open source libraries related to Korean & Hangeul.
 
 I write stuff over at https://andrewzah.com.
 
@@ -15,3 +16,5 @@ In order of preference:
 
 * email: zah {@} andrewzah {.} com
 * telegram: https://t.me/andrewzah
+* twitter: https://twitter.com/andrew_zah
+* instagram: https://www.instagram.com/zah_andrew/
