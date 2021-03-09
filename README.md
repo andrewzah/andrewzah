@@ -10,6 +10,7 @@ I write stuff over at https://andrewzah.com.
 * Be excellent to one another.
 * Assume good intentions before jumping to conclusions.
 * Assume ignorance before assuming maliciousness.
+* Value actions over virtue signaling and concern trolling.
 
 ## Contact
 In order of preference:
