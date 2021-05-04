@@ -15,7 +15,7 @@ I write stuff over at https://andrewzah.com.
 ## Contact
 In order of preference:
 
-* email: zah {@} andrewzah {.} com
+* email: hello {@} andrewzah {.} com
 * telegram: https://t.me/andrewzah
 * twitter: https://twitter.com/andrew_zah
 * instagram: https://www.instagram.com/zah_andrew/
