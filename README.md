@@ -18,4 +18,3 @@ In order of preference:
 * email: hello {@} andrewzah {.} com
 * telegram: https://t.me/andrewzah
 * twitter: https://twitter.com/andrew_zah
-* instagram: https://www.instagram.com/zah_andrew/
