@@ -5,6 +5,8 @@ I maintain some open source libraries related to Korean & Hangeul.
 
 I write stuff over at https://andrewzah.com.
 
+gpg: D87BD9DCF11BACD6CDB40CB213732FB13E61E0BE
+
 ## Values
 
 * Be excellent to one another.
