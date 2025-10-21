@@ -1,12 +1,17 @@
 # Andrew Zah
 
-Hi, I'm Andrew! I work for [Open Source Systems](https://github.com/ossys/) | [AnalyticsHQ](https://analyticshq.com).  
-I write stuff over at https://andrewzah.com and maintain some open source libraries related to Korean & Hangeul.
+Hi, I'm Andrew! I work for [Open Source Systems](https://github.com/ossys/), on [AnalyticsHQ](https://analyticshq.com) and [KubeZT](https://kubezt.com).
+I write stuff over at [blog.andrewzah.com](https://andrewzah.com) and maintain some open source projects related to Korean & Hangeul, and various [nix packages](https://github.com/NixOS/nixpkgs).
 
-gpg: D87BD9DCF11BACD6CDB40CB213732FB13E61E0BE
+I also run the [Nix Seoul Usergroup](https://nixseoul.club) - feel free to reach out if you're in Seoul!
 
 ## Contact
-In order of preference:
 
 * email: hello {/@/} andrewzah {/./} com
-* bluesky: https://bsky.app/profile/andrewzah.bsky.social
+* matrix: @andrewzah:matrix.abare.party
+* fediverse/mastodon: [@andrewzah@fosstodon.org](https://fosstodon.org/@andrewzah)
+* blacksky.app: [@andrewzah.com](https://blacksky.community/profile/andrewzah.bsky.social) - [PDSls.dev info](https://pdsls.dev/at://did:plc:dobotftwezupjqeins7l3nqv)
+
+---
+
+GPG: D87BD9DCF11BACD6CDB40CB213732FB13E61E0BE
