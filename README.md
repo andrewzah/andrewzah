@@ -10,7 +10,7 @@ I also run the [Nix Seoul Usergroup](https://nixseoul.club) - feel free to reach
 * email: hello {/@/} andrewzah {/./} com
 * matrix: @andrewzah:matrix.abare.party
 * fediverse/mastodon: [@andrewzah@fosstodon.org](https://fosstodon.org/@andrewzah)
-* blacksky.app: [@andrewzah.com](https://blacksky.community/profile/andrewzah.bsky.social) - [PDSls.dev info](https://pdsls.dev/at://did:plc:dobotftwezupjqeins7l3nqv)
+* blacksky.app: [@andrewzah.com](https://blacksky.community/profile/andrewzah.com) - [PDSls.dev info](https://pdsls.dev/at://did:plc:dobotftwezupjqeins7l3nqv)
 
 ---
 
