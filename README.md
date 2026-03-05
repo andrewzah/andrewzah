@@ -1,7 +1,7 @@
 # Andrew Zah
 
 > [!NOTE]
-> My main git repos live at [git.andrewzah.com](https://git.andrewzah.com). This account exists for work and F/OSS contribution purposes.
+> My main git repos live at [git.bebop.lol](https://git.bebop.lol). This account exists for work and F/OSS contribution purposes.
 
 Hi, I'm Andrew! I work for [Open Source Systems](https://github.com/ossys/), on [AnalyticsHQ](https://analyticshq.com) and [KubeZT](https://kubezt.com).
 I write stuff over at [andrewzah.com/blog](https://andrewzah.com/blog). 
