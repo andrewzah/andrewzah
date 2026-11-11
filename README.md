@@ -4,7 +4,7 @@
 > My main git repos live at [git.bebop.lol](https://git.bebop.lol). This account exists for work and F/OSS contribution purposes.
 
 Hi, I'm Andrew! I work for [Open Source Systems](https://github.com/ossys/), on [AnalyticsHQ](https://analyticshq.com) and [KubeZT](https://kubezt.com).
-I write stuff over at [andrewzah.com/blog](https://andrewzah.com/blog). 
+I write stuff over at [andrewzah.com](https://andrewzah.com). 
 
 I also run the [Nix Seoul Usergroup](https://nixseoul.club) - feel free to reach out if you're in Korea!
 
